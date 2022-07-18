@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* 
+ * 
+ * 
+ * 
  */
 package viewcontroller;
 
@@ -47,7 +47,7 @@ import utils.Query;
 /**
  * FXML Controller class
  *
- * @author JDura
+ * @author Jordan Durant
  */
 public class MainMenuController implements Initializable {
     

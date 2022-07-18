@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* 
+ * 
+ * 
+ * 
  */
 package viewcontroller;
 
@@ -46,7 +46,7 @@ import static viewcontroller.CustomerMenuController.getCustomerList;
 /**
  * FXML Controller class
  *
- * @author JDura
+ * @author Jordan Durant
  */
 public class LoginScreenController implements Initializable  {
     
